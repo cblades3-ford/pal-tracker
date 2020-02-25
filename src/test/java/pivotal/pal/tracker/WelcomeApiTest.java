@@ -1,4 +1,4 @@
-package test.pivotal.pal.trackerapi;
+package pivotal.pal.tracker;
 
 import io.pivotal.pal.tracker.PalTrackerApplication;
 import org.junit.jupiter.api.Test;
