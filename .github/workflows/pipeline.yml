@@ -45,4 +45,4 @@ jobs:
         CF_ORG: ${{ secrets.CF_ORG }}
         CF_SPACE: ${{ secrets.CF_SPACE }}
         CF_USERNAME: ${{ secrets.CF_USERNAME }}
-        CF_PASSWORD: ${{ secrets.CF_PASSWORD }}
+        CF_PASSWORD2: ${{ secrets.CF_PASSWORD2 }}
